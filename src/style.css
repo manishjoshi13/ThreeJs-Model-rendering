@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+ 
+  background-color: #000000;
+  position: relative;
+}
+
+
+canvas{
+  position: absolute;
+  display: inline;
+  top: 0;
+  background: transparent;
+  left: 0;
+  
+
+}
